@@ -14,7 +14,7 @@ body, nav {
 }
 
 .background {
-    background-image: url('Weather/banner.png');
+    background-image: url('banner.png');
     height: 50vh;
 }
 
