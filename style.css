@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+body, nav {
+    background-color: #1E202B;
+}
+
+ .bg-custom{
+    background-color: #2c2f3c;
+}
+
+.background {
+    background-image: url('Weather/banner.png');
+    height: 50vh;
+}
+
+div.col {
+    background-color: #2D303D;
+}
+div.header {
+    background-color: #2D303D;
+}
+
+
